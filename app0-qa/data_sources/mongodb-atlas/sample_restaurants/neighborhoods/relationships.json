@@ -2,7 +2,7 @@
     "name": {
         "ref": "#/relationship/mongodb-atlas/sample_restaurants/restaurants",
         "source_key": "name",
-        "foreign_key": "name",
+        "foreign_key": "restaurant_id",
         "is_list": false
     }
 }
