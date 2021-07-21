@@ -1,1 +1,8 @@
-{}
+{
+    "name": {
+        "ref": "#/relationship/mongodb-atlas/sample_restaurants/restaurants",
+        "source_key": "name",
+        "foreign_key": "name",
+        "is_list": false
+    }
+}
