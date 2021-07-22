@@ -1,6 +1,6 @@
 [
     {
-        "name": "func2",
+        "name": "func3",
         "private": false
     },
     {
@@ -12,7 +12,7 @@
         "private": false
     },
     {
-        "name": "func3",
+        "name": "func2",
         "private": false
     }
 ]
