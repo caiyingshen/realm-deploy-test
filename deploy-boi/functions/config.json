@@ -3,5 +3,10 @@
         "name": "f111",
         "private": false,
         "disable_arg_logs": true
+    },
+    {
+        "name": "f2",
+        "private": false,
+        "disable_arg_logs": true
     }
 ]
