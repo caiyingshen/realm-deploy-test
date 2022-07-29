@@ -1,1 +1,7 @@
-[]
+[
+    {
+        "name": "f1",
+        "private": false,
+        "disable_arg_logs": true
+    }
+]
